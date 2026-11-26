@@ -1,0 +1,9 @@
+librosa>=1.0.0
+numpy>=2.1.0
+scipy>=1.13.0
+soundfile>=0.12.1
+ai-edge-litert>=2.1.2,<3
+onnxruntime>=1.21,<2
+imageio-ffmpeg>=0.6,<1
+tkinterdnd2>=0.7,<1
+pyinstaller>=6.10.0

@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+.venv/
+.venv-build/
+build/
+dist/
+dist-public/
+dist-local/
+release/
+previous-installs/
+Analysis Results/
+training/data/
+models/UVR_MDXNET_1_9703.onnx
+models/reference_annotations.json
+*.mp3
+*.wav
+*.flac
+*.m4a
+*.aac
+*.ogg
+*.aiff
+*.wma
+*.xls*
+.env
+.env.*
