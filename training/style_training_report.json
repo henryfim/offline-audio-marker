@@ -1,0 +1,1532 @@
+{
+  "dataset": {
+    "name": "FMA Small (320-track balanced subset)",
+    "source_url": "https://github.com/mdeff/fma",
+    "manifest_sha256": "1cf93aa53f7cc4300aa0ef0aac01aa631b145abf67be1dce1e91aeab6e7ac1a4",
+    "manifest_tracks": 320,
+    "used_tracks": {
+      "train": 192,
+      "validation": 64,
+      "test": 64
+    },
+    "decode_failures": 0
+  },
+  "training": {
+    "estimator": "Multinomial logistic regression",
+    "audio_input_sample_rate_hz": 22050,
+    "regularization_C": 0.3,
+    "validation_target_coverage": 0.85,
+    "calibration": "Temperature scaling on validation",
+    "validation_regularization_search": [
+      {
+        "C": 0.001,
+        "macro_f1": 0.32760048796233004,
+        "log_loss": 1.8612923622131348
+      },
+      {
+        "C": 0.003,
+        "macro_f1": 0.3496054190907132,
+        "log_loss": 1.7334022521972656
+      },
+      {
+        "C": 0.01,
+        "macro_f1": 0.3927911076711387,
+        "log_loss": 1.6308658123016357
+      },
+      {
+        "C": 0.03,
+        "macro_f1": 0.3838167486967797,
+        "log_loss": 1.643702507019043
+      },
+      {
+        "C": 0.1,
+        "macro_f1": 0.4221906432584182,
+        "log_loss": 1.8757028579711914
+      },
+      {
+        "C": 0.3,
+        "macro_f1": 0.422890769800263,
+        "log_loss": 2.2677195072174072
+      },
+      {
+        "C": 1.0,
+        "macro_f1": 0.41034542405478935,
+        "log_loss": 2.7984180450439453
+      },
+      {
+        "C": 3.0,
+        "macro_f1": 0.42071826200115675,
+        "log_loss": 3.291820764541626
+      }
+    ],
+    "libraries": {
+      "scikit-learn": "1.9.1",
+      "numpy": "2.2.4",
+      "scipy": "1.18.1",
+      "soundfile": "0.14.0"
+    },
+    "dataset": {
+      "name": "FMA Small (320-track balanced subset)",
+      "source_url": "https://github.com/mdeff/fma",
+      "manifest_sha256": "1cf93aa53f7cc4300aa0ef0aac01aa631b145abf67be1dce1e91aeab6e7ac1a4",
+      "manifest_tracks": 320,
+      "used_tracks": {
+        "train": 192,
+        "validation": 64,
+        "test": 64
+      },
+      "decode_failures": 0
+    }
+  },
+  "feature_version": 1,
+  "feature_count": 294,
+  "labels": [
+    "Electronic",
+    "Experimental",
+    "Folk",
+    "Hip-Hop",
+    "Instrumental",
+    "International",
+    "Pop",
+    "Rock"
+  ],
+  "threshold": 0.0,
+  "temperature": 2.734404418668205,
+  "decode_failures": [],
+  "fallback_threshold": 0.4,
+  "validation": {
+    "tracks": 64,
+    "coverage": 1.0,
+    "accuracy": 0.421875,
+    "accepted_accuracy": 0.421875,
+    "macro_f1": 0.422890769800263,
+    "per_class": {
+      "Electronic": {
+        "precision": 0.7142857142857143,
+        "recall": 0.625,
+        "f1": 0.6666666666666666,
+        "support": 8
+      },
+      "Experimental": {
+        "precision": 0.5,
+        "recall": 0.125,
+        "f1": 0.2,
+        "support": 8
+      },
+      "Folk": {
+        "precision": 0.375,
+        "recall": 0.375,
+        "f1": 0.375,
+        "support": 8
+      },
+      "Hip-Hop": {
+        "precision": 0.5555555555555556,
+        "recall": 0.625,
+        "f1": 0.5882352941176471,
+        "support": 8
+      },
+      "Instrumental": {
+        "precision": 0.18181818181818182,
+        "recall": 0.25,
+        "f1": 0.21052631578947367,
+        "support": 8
+      },
+      "International": {
+        "precision": 0.6,
+        "recall": 0.375,
+        "f1": 0.46153846153846156,
+        "support": 8
+      },
+      "Pop": {
+        "precision": 0.26666666666666666,
+        "recall": 0.5,
+        "f1": 0.34782608695652173,
+        "support": 8
+      },
+      "Rock": {
+        "precision": 0.5714285714285714,
+        "recall": 0.5,
+        "f1": 0.5333333333333333,
+        "support": 8
+      }
+    },
+    "confusion_columns": [
+      "Electronic",
+      "Experimental",
+      "Folk",
+      "Hip-Hop",
+      "Instrumental",
+      "International",
+      "Pop",
+      "Rock",
+      "Undetermined",
+      "Other"
+    ],
+    "confusion_rows": {
+      "Electronic": [
+        5,
+        0,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "Experimental": [
+        0,
+        1,
+        1,
+        2,
+        3,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "Folk": [
+        0,
+        0,
+        3,
+        0,
+        1,
+        0,
+        3,
+        1,
+        0,
+        0
+      ],
+      "Hip-Hop": [
+        0,
+        0,
+        0,
+        5,
+        1,
+        0,
+        1,
+        1,
+        0,
+        0
+      ],
+      "Instrumental": [
+        0,
+        1,
+        2,
+        0,
+        2,
+        1,
+        1,
+        1,
+        0,
+        0
+      ],
+      "International": [
+        0,
+        0,
+        0,
+        1,
+        1,
+        3,
+        3,
+        0,
+        0,
+        0
+      ],
+      "Pop": [
+        2,
+        0,
+        1,
+        0,
+        1,
+        0,
+        4,
+        0,
+        0,
+        0
+      ],
+      "Rock": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        2,
+        4,
+        0,
+        0
+      ]
+    }
+  },
+  "validation_without_rejection": {
+    "tracks": 64,
+    "coverage": 1.0,
+    "accuracy": 0.421875,
+    "accepted_accuracy": 0.421875,
+    "macro_f1": 0.422890769800263,
+    "per_class": {
+      "Electronic": {
+        "precision": 0.7142857142857143,
+        "recall": 0.625,
+        "f1": 0.6666666666666666,
+        "support": 8
+      },
+      "Experimental": {
+        "precision": 0.5,
+        "recall": 0.125,
+        "f1": 0.2,
+        "support": 8
+      },
+      "Folk": {
+        "precision": 0.375,
+        "recall": 0.375,
+        "f1": 0.375,
+        "support": 8
+      },
+      "Hip-Hop": {
+        "precision": 0.5555555555555556,
+        "recall": 0.625,
+        "f1": 0.5882352941176471,
+        "support": 8
+      },
+      "Instrumental": {
+        "precision": 0.18181818181818182,
+        "recall": 0.25,
+        "f1": 0.21052631578947367,
+        "support": 8
+      },
+      "International": {
+        "precision": 0.6,
+        "recall": 0.375,
+        "f1": 0.46153846153846156,
+        "support": 8
+      },
+      "Pop": {
+        "precision": 0.26666666666666666,
+        "recall": 0.5,
+        "f1": 0.34782608695652173,
+        "support": 8
+      },
+      "Rock": {
+        "precision": 0.5714285714285714,
+        "recall": 0.5,
+        "f1": 0.5333333333333333,
+        "support": 8
+      }
+    },
+    "confusion_columns": [
+      "Electronic",
+      "Experimental",
+      "Folk",
+      "Hip-Hop",
+      "Instrumental",
+      "International",
+      "Pop",
+      "Rock",
+      "Undetermined",
+      "Other"
+    ],
+    "confusion_rows": {
+      "Electronic": [
+        5,
+        0,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "Experimental": [
+        0,
+        1,
+        1,
+        2,
+        3,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "Folk": [
+        0,
+        0,
+        3,
+        0,
+        1,
+        0,
+        3,
+        1,
+        0,
+        0
+      ],
+      "Hip-Hop": [
+        0,
+        0,
+        0,
+        5,
+        1,
+        0,
+        1,
+        1,
+        0,
+        0
+      ],
+      "Instrumental": [
+        0,
+        1,
+        2,
+        0,
+        2,
+        1,
+        1,
+        1,
+        0,
+        0
+      ],
+      "International": [
+        0,
+        0,
+        0,
+        1,
+        1,
+        3,
+        3,
+        0,
+        0,
+        0
+      ],
+      "Pop": [
+        2,
+        0,
+        1,
+        0,
+        1,
+        0,
+        4,
+        0,
+        0,
+        0
+      ],
+      "Rock": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        2,
+        4,
+        0,
+        0
+      ]
+    }
+  },
+  "test": {
+    "tracks": 64,
+    "coverage": 1.0,
+    "accuracy": 0.3125,
+    "accepted_accuracy": 0.3125,
+    "macro_f1": 0.3118397426446962,
+    "per_class": {
+      "Electronic": {
+        "precision": 0.1111111111111111,
+        "recall": 0.125,
+        "f1": 0.11764705882352941,
+        "support": 8
+      },
+      "Experimental": {
+        "precision": 0.2,
+        "recall": 0.125,
+        "f1": 0.15384615384615385,
+        "support": 8
+      },
+      "Folk": {
+        "precision": 0.6666666666666666,
+        "recall": 0.5,
+        "f1": 0.5714285714285714,
+        "support": 8
+      },
+      "Hip-Hop": {
+        "precision": 0.2857142857142857,
+        "recall": 0.25,
+        "f1": 0.26666666666666666,
+        "support": 8
+      },
+      "Instrumental": {
+        "precision": 0.3333333333333333,
+        "recall": 0.25,
+        "f1": 0.2857142857142857,
+        "support": 8
+      },
+      "International": {
+        "precision": 0.18181818181818182,
+        "recall": 0.25,
+        "f1": 0.21052631578947367,
+        "support": 8
+      },
+      "Pop": {
+        "precision": 0.4,
+        "recall": 0.5,
+        "f1": 0.4444444444444444,
+        "support": 8
+      },
+      "Rock": {
+        "precision": 0.4,
+        "recall": 0.5,
+        "f1": 0.4444444444444444,
+        "support": 8
+      }
+    },
+    "confusion_columns": [
+      "Electronic",
+      "Experimental",
+      "Folk",
+      "Hip-Hop",
+      "Instrumental",
+      "International",
+      "Pop",
+      "Rock",
+      "Undetermined",
+      "Other"
+    ],
+    "confusion_rows": {
+      "Electronic": [
+        1,
+        0,
+        1,
+        4,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "Experimental": [
+        2,
+        1,
+        0,
+        0,
+        0,
+        2,
+        2,
+        1,
+        0,
+        0
+      ],
+      "Folk": [
+        0,
+        1,
+        4,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "Hip-Hop": [
+        3,
+        0,
+        0,
+        2,
+        0,
+        3,
+        0,
+        0,
+        0,
+        0
+      ],
+      "Instrumental": [
+        0,
+        2,
+        1,
+        0,
+        2,
+        2,
+        1,
+        0,
+        0,
+        0
+      ],
+      "International": [
+        1,
+        0,
+        0,
+        1,
+        0,
+        2,
+        1,
+        3,
+        0,
+        0
+      ],
+      "Pop": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        4,
+        2,
+        0,
+        0
+      ],
+      "Rock": [
+        1,
+        0,
+        0,
+        0,
+        3,
+        0,
+        0,
+        4,
+        0,
+        0
+      ]
+    }
+  },
+  "test_without_rejection": {
+    "tracks": 64,
+    "coverage": 1.0,
+    "accuracy": 0.3125,
+    "accepted_accuracy": 0.3125,
+    "macro_f1": 0.3118397426446962,
+    "per_class": {
+      "Electronic": {
+        "precision": 0.1111111111111111,
+        "recall": 0.125,
+        "f1": 0.11764705882352941,
+        "support": 8
+      },
+      "Experimental": {
+        "precision": 0.2,
+        "recall": 0.125,
+        "f1": 0.15384615384615385,
+        "support": 8
+      },
+      "Folk": {
+        "precision": 0.6666666666666666,
+        "recall": 0.5,
+        "f1": 0.5714285714285714,
+        "support": 8
+      },
+      "Hip-Hop": {
+        "precision": 0.2857142857142857,
+        "recall": 0.25,
+        "f1": 0.26666666666666666,
+        "support": 8
+      },
+      "Instrumental": {
+        "precision": 0.3333333333333333,
+        "recall": 0.25,
+        "f1": 0.2857142857142857,
+        "support": 8
+      },
+      "International": {
+        "precision": 0.18181818181818182,
+        "recall": 0.25,
+        "f1": 0.21052631578947367,
+        "support": 8
+      },
+      "Pop": {
+        "precision": 0.4,
+        "recall": 0.5,
+        "f1": 0.4444444444444444,
+        "support": 8
+      },
+      "Rock": {
+        "precision": 0.4,
+        "recall": 0.5,
+        "f1": 0.4444444444444444,
+        "support": 8
+      }
+    },
+    "confusion_columns": [
+      "Electronic",
+      "Experimental",
+      "Folk",
+      "Hip-Hop",
+      "Instrumental",
+      "International",
+      "Pop",
+      "Rock",
+      "Undetermined",
+      "Other"
+    ],
+    "confusion_rows": {
+      "Electronic": [
+        1,
+        0,
+        1,
+        4,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "Experimental": [
+        2,
+        1,
+        0,
+        0,
+        0,
+        2,
+        2,
+        1,
+        0,
+        0
+      ],
+      "Folk": [
+        0,
+        1,
+        4,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "Hip-Hop": [
+        3,
+        0,
+        0,
+        2,
+        0,
+        3,
+        0,
+        0,
+        0,
+        0
+      ],
+      "Instrumental": [
+        0,
+        2,
+        1,
+        0,
+        2,
+        2,
+        1,
+        0,
+        0,
+        0
+      ],
+      "International": [
+        1,
+        0,
+        0,
+        1,
+        0,
+        2,
+        1,
+        3,
+        0,
+        0
+      ],
+      "Pop": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        4,
+        2,
+        0,
+        0
+      ],
+      "Rock": [
+        1,
+        0,
+        0,
+        0,
+        3,
+        0,
+        0,
+        4,
+        0,
+        0
+      ]
+    }
+  },
+  "baseline_comparison": {
+    "method": "Seeded stratified subset of test clips. YAMNet scores whole clips. Labels outside the dataset count as Other and are incorrect for accuracy and F1.",
+    "seed": 20261125,
+    "track_ids": [
+      "026859",
+      "068551",
+      "042463",
+      "148028",
+      "086039",
+      "142538",
+      "035608",
+      "013666",
+      "141619",
+      "086256",
+      "054703",
+      "042040",
+      "117626",
+      "014604",
+      "011200",
+      "012521",
+      "140926",
+      "081071",
+      "044777",
+      "132117",
+      "084736",
+      "113273",
+      "127181",
+      "132171",
+      "023010",
+      "074374",
+      "018350",
+      "110777",
+      "111149",
+      "121930",
+      "119584",
+      "068404",
+      "036998",
+      "083906",
+      "047628",
+      "154306",
+      "106629",
+      "059581",
+      "012387",
+      "145068",
+      "065777",
+      "001259",
+      "010382",
+      "089445",
+      "010250",
+      "113274",
+      "016339",
+      "133772",
+      "035569",
+      "046720",
+      "115926",
+      "108495",
+      "111994",
+      "043768",
+      "025055",
+      "117884",
+      "020667",
+      "084152",
+      "041310",
+      "116388",
+      "103523",
+      "041019",
+      "150017",
+      "137605"
+    ],
+    "baseline_label_mapping": {
+      "Indie / Pop": "Pop",
+      "Dubstep": "Electronic",
+      "House": "Electronic",
+      "Techno": "Electronic",
+      "Drum and Bass": "Electronic",
+      "Trance": "Electronic",
+      "Piano Instrumental": "Instrumental",
+      "Instrumental Music": "Instrumental"
+    },
+    "baseline_original_predictions": {
+      "Undetermined": 19,
+      "Country / Bluegrass": 2,
+      "Hip-Hop": 6,
+      "Latin": 4,
+      "Rock": 7,
+      "Electronic": 6,
+      "Ambient / New Age": 3,
+      "Independent Music": 3,
+      "Instrumental Music": 6,
+      "Folk": 1,
+      "Gospel": 1,
+      "Children's Music": 3,
+      "R&B / Soul": 1,
+      "Jazz / Swing": 1,
+      "Reggae / Ska": 1
+    },
+    "baseline": {
+      "tracks": 64,
+      "coverage": 0.703125,
+      "accuracy": 0.3125,
+      "accepted_accuracy": 0.4444444444444444,
+      "macro_f1": 0.35,
+      "per_class": {
+        "Electronic": {
+          "precision": 0.8333333333333334,
+          "recall": 0.625,
+          "f1": 0.7142857142857143,
+          "support": 8
+        },
+        "Experimental": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 8
+        },
+        "Folk": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 8
+        },
+        "Hip-Hop": {
+          "precision": 1.0,
+          "recall": 0.75,
+          "f1": 0.8571428571428571,
+          "support": 8
+        },
+        "Instrumental": {
+          "precision": 0.5,
+          "recall": 0.375,
+          "f1": 0.42857142857142855,
+          "support": 8
+        },
+        "International": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 8
+        },
+        "Pop": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 8
+        },
+        "Rock": {
+          "precision": 0.8571428571428571,
+          "recall": 0.75,
+          "f1": 0.8,
+          "support": 8
+        }
+      },
+      "confusion_columns": [
+        "Electronic",
+        "Experimental",
+        "Folk",
+        "Hip-Hop",
+        "Instrumental",
+        "International",
+        "Pop",
+        "Rock",
+        "Undetermined",
+        "Other"
+      ],
+      "confusion_rows": {
+        "Electronic": [
+          5,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          3,
+          0
+        ],
+        "Experimental": [
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          5,
+          1
+        ],
+        "Folk": [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          2,
+          5
+        ],
+        "Hip-Hop": [
+          0,
+          0,
+          0,
+          6,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        "Instrumental": [
+          0,
+          0,
+          0,
+          0,
+          3,
+          0,
+          0,
+          0,
+          3,
+          2
+        ],
+        "International": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          5
+        ],
+        "Pop": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          3,
+          5
+        ],
+        "Rock": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          6,
+          1,
+          1
+        ]
+      }
+    },
+    "trained_model": {
+      "tracks": 64,
+      "coverage": 1.0,
+      "accuracy": 0.3125,
+      "accepted_accuracy": 0.3125,
+      "macro_f1": 0.3118397426446962,
+      "per_class": {
+        "Electronic": {
+          "precision": 0.1111111111111111,
+          "recall": 0.125,
+          "f1": 0.11764705882352941,
+          "support": 8
+        },
+        "Experimental": {
+          "precision": 0.2,
+          "recall": 0.125,
+          "f1": 0.15384615384615385,
+          "support": 8
+        },
+        "Folk": {
+          "precision": 0.6666666666666666,
+          "recall": 0.5,
+          "f1": 0.5714285714285714,
+          "support": 8
+        },
+        "Hip-Hop": {
+          "precision": 0.2857142857142857,
+          "recall": 0.25,
+          "f1": 0.26666666666666666,
+          "support": 8
+        },
+        "Instrumental": {
+          "precision": 0.3333333333333333,
+          "recall": 0.25,
+          "f1": 0.2857142857142857,
+          "support": 8
+        },
+        "International": {
+          "precision": 0.18181818181818182,
+          "recall": 0.25,
+          "f1": 0.21052631578947367,
+          "support": 8
+        },
+        "Pop": {
+          "precision": 0.4,
+          "recall": 0.5,
+          "f1": 0.4444444444444444,
+          "support": 8
+        },
+        "Rock": {
+          "precision": 0.4,
+          "recall": 0.5,
+          "f1": 0.4444444444444444,
+          "support": 8
+        }
+      },
+      "confusion_columns": [
+        "Electronic",
+        "Experimental",
+        "Folk",
+        "Hip-Hop",
+        "Instrumental",
+        "International",
+        "Pop",
+        "Rock",
+        "Undetermined",
+        "Other"
+      ],
+      "confusion_rows": {
+        "Electronic": [
+          1,
+          0,
+          1,
+          4,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        "Experimental": [
+          2,
+          1,
+          0,
+          0,
+          0,
+          2,
+          2,
+          1,
+          0,
+          0
+        ],
+        "Folk": [
+          0,
+          1,
+          4,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        "Hip-Hop": [
+          3,
+          0,
+          0,
+          2,
+          0,
+          3,
+          0,
+          0,
+          0,
+          0
+        ],
+        "Instrumental": [
+          0,
+          2,
+          1,
+          0,
+          2,
+          2,
+          1,
+          0,
+          0,
+          0
+        ],
+        "International": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          2,
+          1,
+          3,
+          0,
+          0
+        ],
+        "Pop": [
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          4,
+          2,
+          0,
+          0
+        ],
+        "Rock": [
+          1,
+          0,
+          0,
+          0,
+          3,
+          0,
+          0,
+          4,
+          0,
+          0
+        ]
+      }
+    },
+    "hybrid_model": {
+      "tracks": 64,
+      "coverage": 0.765625,
+      "accuracy": 0.328125,
+      "accepted_accuracy": 0.42857142857142855,
+      "macro_f1": 0.37272727272727274,
+      "per_class": {
+        "Electronic": {
+          "precision": 0.8333333333333334,
+          "recall": 0.625,
+          "f1": 0.7142857142857143,
+          "support": 8
+        },
+        "Experimental": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 8
+        },
+        "Folk": {
+          "precision": 0.3333333333333333,
+          "recall": 0.125,
+          "f1": 0.18181818181818182,
+          "support": 8
+        },
+        "Hip-Hop": {
+          "precision": 1.0,
+          "recall": 0.75,
+          "f1": 0.8571428571428571,
+          "support": 8
+        },
+        "Instrumental": {
+          "precision": 0.5,
+          "recall": 0.375,
+          "f1": 0.42857142857142855,
+          "support": 8
+        },
+        "International": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 8
+        },
+        "Pop": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 8
+        },
+        "Rock": {
+          "precision": 0.8571428571428571,
+          "recall": 0.75,
+          "f1": 0.8,
+          "support": 8
+        }
+      },
+      "confusion_columns": [
+        "Electronic",
+        "Experimental",
+        "Folk",
+        "Hip-Hop",
+        "Instrumental",
+        "International",
+        "Pop",
+        "Rock",
+        "Undetermined",
+        "Other"
+      ],
+      "confusion_rows": {
+        "Electronic": [
+          5,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0
+        ],
+        "Experimental": [
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          5,
+          1
+        ],
+        "Folk": [
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          5
+        ],
+        "Hip-Hop": [
+          0,
+          0,
+          0,
+          6,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        "Instrumental": [
+          0,
+          0,
+          0,
+          0,
+          3,
+          0,
+          0,
+          0,
+          3,
+          2
+        ],
+        "International": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          5
+        ],
+        "Pop": [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          5
+        ],
+        "Rock": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          6,
+          1,
+          1
+        ]
+      }
+    },
+    "hybrid_local_predictions": 4,
+    "hybrid_fallback_threshold": 0.4,
+    "trained_model_without_rejection": {
+      "tracks": 64,
+      "coverage": 1.0,
+      "accuracy": 0.3125,
+      "accepted_accuracy": 0.3125,
+      "macro_f1": 0.3118397426446962,
+      "per_class": {
+        "Electronic": {
+          "precision": 0.1111111111111111,
+          "recall": 0.125,
+          "f1": 0.11764705882352941,
+          "support": 8
+        },
+        "Experimental": {
+          "precision": 0.2,
+          "recall": 0.125,
+          "f1": 0.15384615384615385,
+          "support": 8
+        },
+        "Folk": {
+          "precision": 0.6666666666666666,
+          "recall": 0.5,
+          "f1": 0.5714285714285714,
+          "support": 8
+        },
+        "Hip-Hop": {
+          "precision": 0.2857142857142857,
+          "recall": 0.25,
+          "f1": 0.26666666666666666,
+          "support": 8
+        },
+        "Instrumental": {
+          "precision": 0.3333333333333333,
+          "recall": 0.25,
+          "f1": 0.2857142857142857,
+          "support": 8
+        },
+        "International": {
+          "precision": 0.18181818181818182,
+          "recall": 0.25,
+          "f1": 0.21052631578947367,
+          "support": 8
+        },
+        "Pop": {
+          "precision": 0.4,
+          "recall": 0.5,
+          "f1": 0.4444444444444444,
+          "support": 8
+        },
+        "Rock": {
+          "precision": 0.4,
+          "recall": 0.5,
+          "f1": 0.4444444444444444,
+          "support": 8
+        }
+      },
+      "confusion_columns": [
+        "Electronic",
+        "Experimental",
+        "Folk",
+        "Hip-Hop",
+        "Instrumental",
+        "International",
+        "Pop",
+        "Rock",
+        "Undetermined",
+        "Other"
+      ],
+      "confusion_rows": {
+        "Electronic": [
+          1,
+          0,
+          1,
+          4,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        "Experimental": [
+          2,
+          1,
+          0,
+          0,
+          0,
+          2,
+          2,
+          1,
+          0,
+          0
+        ],
+        "Folk": [
+          0,
+          1,
+          4,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        "Hip-Hop": [
+          3,
+          0,
+          0,
+          2,
+          0,
+          3,
+          0,
+          0,
+          0,
+          0
+        ],
+        "Instrumental": [
+          0,
+          2,
+          1,
+          0,
+          2,
+          2,
+          1,
+          0,
+          0,
+          0
+        ],
+        "International": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          2,
+          1,
+          3,
+          0,
+          0
+        ],
+        "Pop": [
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          4,
+          2,
+          0,
+          0
+        ],
+        "Rock": [
+          1,
+          0,
+          0,
+          0,
+          3,
+          0,
+          0,
+          4,
+          0,
+          0
+        ]
+      }
+    }
+  }
+}

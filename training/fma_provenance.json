@@ -1,0 +1,56 @@
+{
+  "source": "FMA Small",
+  "repository": "https://github.com/mdeff/fma",
+  "audio_archive": "https://os.unil.cloud.switch.ch/fma/fma_small.zip",
+  "metadata_archive": "https://os.unil.cloud.switch.ch/fma/fma_metadata.zip",
+  "published_archive_sha1": {
+    "fma_small.zip": "ade154f733639d52e35e32f5593efe5be76c6d70",
+    "fma_metadata.zip": "f0df49ffe5f2a6008d7dc83c6915b31835dfe733"
+  },
+  "tracks_csv_sha256": "f73260fd112b8cd42bcd4f7c8918fc66b19d9d4c7b97f4faedce524b59e95d6b",
+  "sampling_seed": 20261125,
+  "sampling_method": "Within each official split and genre, shuffle artists and their tracks deterministically, then visit artists in rounds. Resolve cross-split albums with same-split and same-genre substitutions, prioritizing test and then validation tracks.",
+  "cross_split_groups": {
+    "track_ids": 0,
+    "artist_ids": 0,
+    "album_ids": 0
+  },
+  "album_overlap_replacements": {
+    "074391": "035462",
+    "083908": "126516",
+    "089477": "000602",
+    "041983": "141876",
+    "012531": "123980",
+    "071508": "028548",
+    "113271": "004849",
+    "108500": "070208",
+    "113266": "025601",
+    "089473": "129806",
+    "051265": "017906",
+    "111873": "128619",
+    "115922": "031807",
+    "073760": "006803",
+    "068540": "096898",
+    "062183": "027953",
+    "042045": "058212"
+  },
+  "tracks_by_split": {
+    "test": 64,
+    "train": 192,
+    "validation": 64
+  },
+  "tracks_by_label": {
+    "Electronic": 40,
+    "Experimental": 40,
+    "Folk": 40,
+    "Hip-Hop": 40,
+    "Instrumental": 40,
+    "International": 40,
+    "Pop": 40,
+    "Rock": 40
+  },
+  "audio_verification": "Every selected audio file matches the size and CRC in the official ZIP directory. Source archive SHA-1 values are provided for reference because downloads used byte ranges.",
+  "nominal_clip_seconds": 30,
+  "metadata_license": "CC BY 4.0",
+  "audio_license": "Individual track license and attribution are listed in manifest.csv."
+}

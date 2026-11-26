@@ -1,0 +1,321 @@
+path,label,split,track_id,artist_id,album_id,license,artist,title,crc32
+fma_small/026/026859.mp3,Electronic,test,026859,6809,5823,Attribution-Noncommercial-Share Alike 3.0 United States,"I, Cactus",ruby cactus,39ba4065
+fma_small/068/068551.mp3,Experimental,test,068551,14132,12256,Creative Commons Attribution,gelo-papas,Crowd Walla,a78e40ea
+fma_small/042/042463.mp3,Folk,test,042463,9990,8315,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,Yves Rakotomalala,A 1 still a rambler,e9d23619
+fma_small/148/148028.mp3,Hip-Hop,test,148028,23527,22069,Attribution,BoyHoodBuchi,Disco From The Clouds,4689904c
+fma_small/086/086039.mp3,Instrumental,test,086039,16532,14503,Attribution-NonCommercial-ShareAlike 3.0 International,Teatro Grotesco,MMXII,8fe9dd87
+fma_small/142/142538.mp3,International,test,142538,22680,21400,Attribution-Noncommercial-Share Alike 3.0 United States,Terratombats,El mig amic,f0918901
+fma_small/035/035608.mp3,Pop,test,035608,8619,7329,Attribution-Noncommercial-No Derivative Works 3.0 United States,Stan,Second Hand News,8a23c0ce
+fma_small/013/013666.mp3,Rock,test,013666,3736,3221,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,M.A.Z.C.A.,Seven Faces of Him,8c9d25ca
+fma_small/130/130921.mp3,Electronic,train,130921,21535,19711,Attribution-Noncommercial-Share Alike 3.0 United States,mathgrant,Perfect Boy,1b59948d
+fma_small/137/137551.mp3,Experimental,train,137551,22168,20660,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0,Tristan Horton,TimeLapse Speed Up,93dee99a
+fma_small/010/010577.mp3,Folk,train,010577,2339,2544,Attribution-Noncommercial-Share Alike 3.0 United States,Bobb Trimble,One Mile From Heaven (short version),81a6d622
+fma_small/014/014358.mp3,Hip-Hop,train,014358,3959,3341,Attribution-Noncommercial-No Derivative Works 3.0 United States,Bilal Bashir &amp; Divine Styler,Rain,152adad5
+fma_small/141/141299.mp3,Instrumental,train,141299,22551,21242,Attribution-ShareAlike,Kevin Hartnell,Interlude #13,1aaafa9e
+fma_small/133/133838.mp3,International,train,133838,21844,20104,Attribution,Nimisha Shankar,Sunset Raga,4b07a994
+fma_small/021/021403.mp3,Pop,train,021403,5639,4764,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,Candy Claws,Pony Rides,a1c8ba69
+fma_small/060/060736.mp3,Rock,train,060736,13016,11111,Attribution-Noncommercial-Share Alike 3.0 United States,Mexican Holiday,Mexican Holiday live at the Winston,3f0ba8a8
+fma_small/110/110106.mp3,Electronic,validation,110106,18846,17051,Attribution-NonCommercial-ShareAlike,Azureflux,Expedition,bd09a109
+fma_small/127/127542.mp3,Experimental,validation,127542,21106,19285,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0,Space Monkey Death Sequence,Alike After All,9a3e6b30
+fma_small/148/148186.mp3,Folk,validation,148186,22428,22094,Attribution,Josh Armistead,Friends Of Mine,cb01baf4
+fma_small/065/065745.mp3,Hip-Hop,validation,065745,13729,11836,Attribution-NonCommercial-ShareAlike 3.0 International,Super Galactic Expansive,Everpresent Future,93468fef
+fma_small/041/041971.mp3,Instrumental,validation,041971,9890,8255,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,Juanita y los Feos,El Agujero,e183fd42
+fma_small/025/025028.mp3,International,validation,025028,6416,5476,Attribution-Noncommercial-No Derivative Works 3.0 United States,Romashka,La Circiuma de la Drum-Bessarabian Rom Hora,99c4bcfc
+fma_small/051/051261.mp3,Pop,validation,051261,11472,9660,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,Casa Del Mirto,The End,a1b331e9
+fma_small/086/086263.mp3,Rock,validation,086263,16586,14535,Attribution-Share Alike 3.0 Germany,Angstbreaker,Stay Hungry,7b47fddb
+fma_small/141/141619.mp3,Electronic,test,141619,13437,21286,Attribution,Barbarix,When Night Falls,5c843f80
+fma_small/086/086256.mp3,Experimental,test,086256,16583,14533,Attribution-NonCommercial-ShareAlike 3.0 International,echosonic,Warped Picture of the Restaurant Taken Through a Wine Glass,643df9f9
+fma_small/054/054703.mp3,Folk,test,054703,12030,10233,Attribution-Noncommercial-No Derivative Works 3.0 United States,Bird of Youth,Sons And Daughters,a5c182fe
+fma_small/042/042040.mp3,Hip-Hop,test,042040,6441,8258,Attribution-NonCommercial-ShareAlike 3.0 International,Coolzey,Enjoy Your Holiday,5d5fb120
+fma_small/117/117626.mp3,Instrumental,test,117626,19888,18056,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0,Ulrike Mod,bonus - La jeune Pierre - alt piano mix,ff68ff07
+fma_small/014/014604.mp3,International,test,014604,4053,3376,Attribution-Noncommercial-No Derivative Works 3.0 United States,Brahim Fribgane,Live Improv,a1da352f
+fma_small/011/011200.mp3,Pop,test,011200,2881,2749,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,March Rosetta,Berlin Lights (Finistere),ece9805d
+fma_small/012/012521.mp3,Rock,test,012521,3227,3010,Attribution-NonCommercial-ShareAlike 3.0 International,Brad Sucks,Never Get Out,5024807f
+fma_small/046/046159.mp3,Electronic,train,046159,10592,8893,Attribution-ShareAlike 3.0 International,Erin Dingle,All Tremors Cease (lokey's imminent revision),541d9c69
+fma_small/118/118478.mp3,Experimental,train,118478,20004,18152,Attribution,Ben Townsend,XI,ff3e5d80
+fma_small/000/000190.mp3,Folk,train,000190,127,84,Attribution-NonCommercial-ShareAlike 3.0 International,Ed Askew,Castle Of Stars,2ef01ac2
+fma_small/050/050264.mp3,Hip-Hop,train,050264,11336,9517,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,Square Flare,Mandala,2fdad74e
+fma_small/132/132677.mp3,Instrumental,train,132677,19799,19976,Attribution-NonCommercial-ShareAlike,Future Sauce,Ratmobile,30f6c7bc
+fma_small/036/036273.mp3,International,train,036273,8688,7411,Attribution-Noncommercial-Share Alike 3.0 United States,Demiran Ćerimović and His Orkestar,"Competition Rehearsal, Song 2",1b2b2a42
+fma_small/046/046733.mp3,Pop,train,046733,9101,8973,Attribution-Noncommercial-No Derivative Works 3.0 United States,KASHKA,Hands In,305a0fc9
+fma_small/005/005006.mp3,Rock,train,005006,1075,626,Attribution-Noncommercial-Share Alike 3.0 United States,New Bomb Turks,"So Long, Silver Lining",4031dba4
+fma_small/056/056874.mp3,Electronic,validation,056874,12344,10500,Attribution-NonCommercial-ShareAlike 3.0 International,Beat Culture,Midori,eb364570
+fma_small/035/035462.mp3,Experimental,validation,035462,8014,7310,Attribution-Noncommercial-Share Alike 3.0 United States,MV Carbon,Solo improvisation,4d9b6676
+fma_small/051/051919.mp3,Folk,validation,051919,11595,9761,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,Green Like July,September Gurls (Big Star cover),1f3da51e
+fma_small/130/130702.mp3,Hip-Hop,validation,130702,21510,19647,Attribution-Noncommercial-Share Alike 3.0 United States,G8,Deero,fbceab38
+fma_small/052/052452.mp3,Instrumental,validation,052452,11663,9838,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,Jan Morgenstern / Performed by Helena Fix,I Move On (Sintel's Song),d12c2601
+fma_small/073/073763.mp3,International,validation,073763,14373,13057,Attribution-NonCommercial-ShareAlike 3.0 International,Morsa,Belly Button,3a541998
+fma_small/128/128484.mp3,Pop,validation,128484,21155,19386,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0,Terrible Terrible,Wrists Like Little Branches (Basement Skylights Remix),b3e1f9b1
+fma_small/142/142563.mp3,Rock,validation,142563,22683,21403,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0,Malaïse,Heart of Darkness,76156855
+fma_small/140/140926.mp3,Electronic,test,140926,21691,21199,Creative Commons Attribution,Nihilore,A Different World By Night,cb7aff8f
+fma_small/081/081071.mp3,Experimental,test,081071,11832,13862,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,Nick Kuepfer,"Ladybugs on Window, Spraypaint on Deer Carcass",1dab65d5
+fma_small/044/044777.mp3,Folk,test,044777,10345,8695,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,Least Carpet,Old Wedding Song,a910ea4c
+fma_small/132/132117.mp3,Hip-Hop,test,132117,21644,19900,Attribution-NonCommercial-ShareAlike,Timezone LaFontaine,Credit Where Credit Is Due,ce982ed7
+fma_small/084/084736.mp3,Instrumental,test,084736,12351,13352,Attribution-NonCommercial 3.0 International,Circus Marcus,Pompas de Jabón,9934fec4
+fma_small/113/113273.mp3,International,test,113273,19371,17457,Attribution-NonCommercial-ShareAlike 3.0 International,Ortalio,Ubogi Poeta,29b82cfb
+fma_small/127/127181.mp3,Pop,test,127181,15469,19225,Attribution-NonCommercial,Wintermitts,Sharks,900d3170
+fma_small/132/132171.mp3,Rock,test,132171,21655,19909,Attribution-NonCommercial,Ulises Lima,Color Blindness,fd7fb08f
+fma_small/066/066390.mp3,Electronic,train,066390,13830,11920,Attribution-NonCommercial 3.0 International,krackatoa,Komodo Dodo,8ce352e8
+fma_small/029/029744.mp3,Experimental,train,029744,7402,6350,Attribution-NonCommercial-ShareAlike 3.0 International,Rufus Hofbagger,All You Need Is Toys,6ff40ff0
+fma_small/006/006855.mp3,Folk,train,006855,1615,2040,Attribution,Lior,This Old Love,2e09c55b
+fma_small/110/110266.mp3,Hip-Hop,train,110266,19059,17087,Attribution,Kellee Maize & J. Glaze & Mike Cash,Hasta Abajo Remix (J. Glaze and Mike Cash Remix),4162651f
+fma_small/141/141876.mp3,Instrumental,train,141876,20985,21144,Attribution,Andy G. Cohen,Warmer,844b94e9
+fma_small/060/060045.mp3,International,train,060045,9348,7824,Art Libre,Lessazo,Maiga  Descente à cheval,d8c777d2
+fma_small/126/126103.mp3,Pop,train,126103,20968,19059,Attribution-NonCommercial 3.0 International,No Lala,Extra Pay,7ac606b2
+fma_small/109/109235.mp3,Rock,train,109235,18988,16953,Attribution-Noncommercial-No Derivative Works 3.0 United States,Vicky and The Vengents,Sha Na,040d9e7e
+fma_small/029/029041.mp3,Electronic,validation,029041,7270,6244,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,Digi G'Alessio,switches (instrumetal),ffea66de
+fma_small/126/126516.mp3,Experimental,validation,126516,7562,19119,Attribution-NonCommercial-ShareAlike 3.0 International,Seiei Jack,Ancient Greece Noise,afc99fc4
+fma_small/065/065683.mp3,Folk,validation,065683,13691,11824,Attribution-NonCommercial 3.0 International,Bill Borman,People Like You,e04cc562
+fma_small/089/089178.mp3,Hip-Hop,validation,089178,16856,14889,Attribution-NonCommercial-ShareAlike 3.0 International,Chuzausen,The Walker,e70a54dd
+fma_small/126/126588.mp3,Instrumental,validation,126588,21020,19131,Attribution-ShareAlike,Maxim Kornyshev,Look Out The Window At The Rain,7608f2dd
+fma_small/029/029350.mp3,International,validation,029350,7325,6274,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,2 cholitas,"Misa en Quechua en Pisac, Perú - 7 7",0c42c01e
+fma_small/107/107049.mp3,Pop,validation,107049,18725,16675,Attribution-Noncommercial-Share Alike 2.0 UK: England ,Elvin Brandhi,It is screamy,7b8b094f
+fma_small/047/047032.mp3,Rock,validation,047032,10023,9010,Attribution-Noncommercial-Share Alike 3.0 United States,Waylon Thornton and the Heavy Hands,Amazing Grace,d3b14cac
+fma_small/023/023010.mp3,Electronic,test,023010,6032,5031,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,Monopole,Stereo-vision radio,c30cb253
+fma_small/074/074374.mp3,Experimental,test,074374,15118,13141,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,Roslyn,O Holy Night,bfe764d2
+fma_small/018/018350.mp3,Folk,test,018350,1010,4193,Attribution-Noncommercial-No Derivative Works 3.0 United States,Josh Mease,Overboard,5aeecab0
+fma_small/110/110777.mp3,Hip-Hop,test,110777,16031,17152,Attribution-NonCommercial-ShareAlike,The Impossebulls,Volume (Mad Apples Remix),9edcba92
+fma_small/111/111149.mp3,Instrumental,test,111149,16986,17186,Attribution-NoDerivatives 4.0 International,Rod Hamilton,Aqua 2,a185aa45
+fma_small/121/121930.mp3,International,test,121930,20367,18489,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0,Negritage,Guetto Rockers in dub,c0a53739
+fma_small/119/119584.mp3,Pop,test,119584,1821,18262,Attribution-NonCommercial,Pee-Bug,Dildo Saga,ef14653c
+fma_small/068/068404.mp3,Rock,test,068404,14098,12228,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,LAZY,Party City,d282c03f
+fma_small/073/073123.mp3,Electronic,train,073123,3734,12958,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,Zengineers,Rose Vale,595f267a
+fma_small/030/030690.mp3,Experimental,train,030690,7587,6467,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,Ambient Fabric,Magma,be675773
+fma_small/091/091958.mp3,Folk,train,091958,17134,15211,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,Graeme Mark,Catch The Knife,78545a03
+fma_small/119/119988.mp3,Hip-Hop,train,119988,20156,18314,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0,Cassette Tape Bandits,Spot Rockers,e6d22553
+fma_small/011/011638.mp3,Instrumental,train,011638,3019,2853,Attribution-Noncommercial-Share Alike 3.0 United States,Embarker,Romantic Neck Tattoo,301f10bd
+fma_small/038/038560.mp3,International,train,038560,9204,7723,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,Party People in a Can,Diesel Rainbow Surface,cee65a44
+fma_small/022/022097.mp3,Pop,train,022097,5847,4879,Attribution-NonCommercial 3.0 International,The Gasoline Brothers,Over Me,4a351b7a
+fma_small/124/124460.mp3,Rock,train,124460,20739,18812,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0,Clean,Devil's Own Strumpet,42d51f3e
+fma_small/071/071506.mp3,Electronic,validation,071506,15501,12672,Creative Commons Attribution,Subway Sonicbeat,Cloudy,93ca9658
+fma_small/051/051158.mp3,Experimental,validation,051158,11461,9648,Attribution-Noncommercial-Share Alike 2.0 UK: England ,Base Cleft,Carousel of Bent Facts,83d13ff4
+fma_small/000/000602.mp3,Folk,validation,000602,122,1692,Attribution-NonCommercial-ShareAlike 3.0 International,Dora Bleu,Disappearing,403cfd2d
+fma_small/086/086680.mp3,Hip-Hop,validation,086680,8665,14597,Attribution-Noncommercial-Share Alike 3.0 United States,Krowne,Rear View Window,113a2d71
+fma_small/040/040658.mp3,Instrumental,validation,040658,9568,8055,Attribution-NonCommercial-ShareAlike 3.0 International,Albert Glasser,The Auction 1,6d87a5b5
+fma_small/062/062184.mp3,International,validation,062184,13215,11285,Attribution-Noncommercial-Share Alike 3.0 United States,le pouvoir,le malin,486e6d7c
+fma_small/070/070423.mp3,Pop,validation,070423,13910,12517,Attribution-Noncommercial-No Derivative Works 3.0 United States,Supercute,I Do,020bcc24
+fma_small/137/137724.mp3,Rock,validation,137724,1860,20690,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0,The Vivisectors,Russki Psycho,ef6373e2
+fma_small/036/036998.mp3,Electronic,test,036998,5978,7379,Attribution-NonCommercial 3.0 International,Exteenager,bonsoir tiroir!,5781d3e1
+fma_small/083/083906.mp3,Experimental,test,083906,16170,14168,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,Rod Rivers and the Big Action Sound,Before I Go Out,2d965344
+fma_small/047/047628.mp3,Folk,test,047628,10900,9130,Attribution-Noncommercial-Share Alike 3.0 United States,Clever Elsa,A Promise,8281fef1
+fma_small/154/154306.mp3,Hip-Hop,test,154306,23208,22780,Attribution,Fleslit,Yummy,f8eb0c4d
+fma_small/106/106629.mp3,Instrumental,test,106629,18680,16611,Attribution-NonCommercial-ShareAlike 3.0 International,Phelios,IV,428369a6
+fma_small/059/059581.mp3,International,test,059581,12351,10938,Attribution-NonCommercial 3.0 International,Circus Marcus,Búsqueda exploratoria #005 - Tu pars.mp3,8d4b9280
+fma_small/012/012387.mp3,Pop,test,012387,3343,2991,Attribution-Noncommercial-Share Alike 3.0 Germany,Norton,Spherical Hearts (Trondheim Remix),72f6fa7e
+fma_small/145/145068.mp3,Rock,test,145068,23115,21653,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0,TxSxBx,Demoni e Dei (Contropotere),70170e35
+fma_small/124/124918.mp3,Electronic,train,124918,20826,18874,Attribution-ShareAlike,Six Umbrellas,She Does Her Best (feat. Small Colin),8a582587
+fma_small/017/017644.mp3,Experimental,train,017644,4747,3988,Attribution-Noncommercial 3.0 United States,Angst Hase Pfeffer Nase,Agar Agar Is My Love,6629f54c
+fma_small/089/089350.mp3,Folk,train,089350,425,14919,Attribution-Noncommercial-Share Alike 3.0 United States,Art of Flying,tilt,1d394202
+fma_small/078/078156.mp3,Hip-Hop,train,078156,8694,13511,Attribution-Noncommercial-Share Alike 3.0 United States,Burning Bright,Stardust,26874517
+fma_small/107/107533.mp3,Instrumental,train,107533,18775,16743,Attribution-NonCommercial-ShareAlike,Vägskäl,The Night The Earth Stood Still,357e377c
+fma_small/033/033072.mp3,International,train,033072,8100,6855,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,Chico Trujillo,Lanzaplatos,3f4597f5
+fma_small/002/002099.mp3,Pop,train,002099,348,539,Attribution-Noncommercial-Share Alike 3.0 United States,luc,....like bacon sundays,33be997c
+fma_small/006/006519.mp3,Rock,train,006519,1844,2002,Attribution-Noncommercial-Share Alike 3.0 United States,Sakura Madams,Somebody To Love,266f81eb
+fma_small/122/122832.mp3,Electronic,validation,122832,14348,18588,Attribution-NonCommercial-ShareAlike,Sci Fi Industries,Mount Rey,ea0e0d8d
+fma_small/116/116525.mp3,Experimental,validation,116525,19815,17936,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0,SULCUS,ghost cat glitch,8ffb4d08
+fma_small/003/003265.mp3,Folk,validation,003265,390,969,Attribution-NonCommercial-ShareAlike 3.0 International,Ai Aso,Lavender,baee50ef
+fma_small/014/014363.mp3,Hip-Hop,validation,014363,3967,3344,Attribution-Noncommercial-No Derivative Works 3.0 United States,Thaione Davis,4:15 p.m. (Thursday),e8036d16
+fma_small/114/114007.mp3,Instrumental,validation,114007,19125,17576,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0,LAZY SALON,DAM,95925053
+fma_small/073/073775.mp3,International,validation,073775,4092,13057,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,Tone,Work It,8cd618e9
+fma_small/021/021587.mp3,Pop,validation,021587,5643,4781,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,Santosh,Polka Of Wrath,6616528b
+fma_small/108/108079.mp3,Rock,validation,108079,18823,16816,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0,Viva Belgrado,Uróboros,e0478ace
+fma_small/065/065777.mp3,Electronic,test,065777,13720,11833,Attribution-NonCommercial-ShareAlike 3.0 International,Adubter,Sun Rice,6164c6e7
+fma_small/001/001259.mp3,Experimental,test,001259,163,330,Attribution-Noncommercial-Share Alike 3.0 United States,Nautical Almanac,Rolling In The Green,efad89e8
+fma_small/010/010382.mp3,Folk,test,010382,77,2547,Attribution-Noncommercial-Share Alike 3.0 United States,Big Blood,New Dish Rag,22d89957
+fma_small/089/089445.mp3,Hip-Hop,test,089445,16870,14928,Creative Commons Attribution,Shad + Skratch Bastid,Outta My Head,d862a09b
+fma_small/010/010250.mp3,Instrumental,test,010250,42,2524,Attribution-Noncommercial-No Derivative Works 3.0 United States,JayDee,Tree Symphony,4cd9d33a
+fma_small/113/113274.mp3,International,test,113274,19372,17457,Attribution-NonCommercial 3.0 International,Rey Nocivo.,Dados con el Diablo,6c2370de
+fma_small/016/016339.mp3,Pop,test,016339,1762,1888,Attribution-Noncommercial-Share Alike 3.0 United States,Twizzle,This Is No Chanson,c307acdd
+fma_small/133/133772.mp3,Rock,test,133772,19770,20094,Attribution-ShareAlike,Hearse Pileup,Grindstone,3454b92a
+fma_small/109/109543.mp3,Electronic,train,109543,19015,16993,Attribution-NonCommercial-ShareAlike,Newton Balloon,Fallen Astronaut,0b917426
+fma_small/108/108059.mp3,Experimental,train,108059,3171,16814,Attribution-Noncommercial-Share Alike 2.0 UK: England ,Radioactive Sparrow,An American story,9d33af73
+fma_small/093/093710.mp3,Folk,train,093710,17341,15415,Attribution-Noncommercial-No Derivative Works 3.0 United States,The Chapin Sisters,Palm Tree,671aeb9e
+fma_small/123/123980.mp3,Hip-Hop,train,123980,20707,18752,Attribution,BenJamin Banger,Ric Flair 2,3fdc9666
+fma_small/122/122635.mp3,Instrumental,train,122635,20521,18566,Attribution-NonCommercial,A Ninja Slob Drew Me,Eden Bloom,42455e47
+fma_small/114/114938.mp3,International,train,114938,18030,17717,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0,Zingeray!,Vus geyst arim many kind azoy batsornt,373ad401
+fma_small/039/039663.mp3,Pop,train,039663,9409,7887,Attribution-Noncommercial-Share Alike 3.0 United States,Quiet Hooves,Til It Stops Talkin,37683b89
+fma_small/113/113165.mp3,Rock,train,113165,19345,17440,Attribution-NonCommercial-ShareAlike,I Re della Spiaggia,Un' Ultima Carezza,f0ef401c
+fma_small/031/031568.mp3,Electronic,validation,031568,7797,6611,Attribution-NonCommercial-ShareAlike 3.0 International,Nameless Dancers,Morning News,af80c5f2
+fma_small/084/084054.mp3,Experimental,validation,084054,16245,14189,Attribution-NonCommercial-ShareAlike 3.0 International,Bekah Jarvis-Girtler,Fruit,514413e5
+fma_small/080/080002.mp3,Folk,validation,080002,15763,13717,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,Brock Tyler,Morning Flowers,89381196
+fma_small/064/064522.mp3,Hip-Hop,validation,064522,13476,11626,Attribution-ShareAlike 3.0 International,Heavy Links,Bombsite,78db2859
+fma_small/143/143299.mp3,Instrumental,validation,143299,22795,21506,Attribution-NonCommercial-ShareAlike,Chase Alan Willis,Hardwired,eab05361
+fma_small/148/148429.mp3,International,validation,148429,23585,22128,Attribution-Noncommercial-Share Alike 3.0 United States,In De Nadfin,No lyrics,50cb61d5
+fma_small/012/012527.mp3,Pop,validation,012527,3375,3011,Attribution-NonCommercial-ShareAlike 3.0 International,Poxfil,Solid Ground,3942173e
+fma_small/004/004022.mp3,Rock,validation,004022,1072,904,Attribution-NonCommercial-ShareAlike 3.0 International,Negative Approach,Can't Tell No One,a2d5e01e
+fma_small/035/035569.mp3,Electronic,test,035569,8616,7323,Attribution-NonCommercial-ShareAlike 3.0 International,Ion (Romania),Education After Auschwitz (Bonus Track),f1ea98c8
+fma_small/046/046720.mp3,Experimental,test,046720,10698,8971,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,Eva-Maria Houben,three lullabies 2,d31bdd84
+fma_small/115/115926.mp3,Folk,test,115926,19713,17823,Attribution-Noncommercial-Share Alike 3.0 United States,Nestor +3,Brian de Palma,7103d448
+fma_small/108/108495.mp3,Hip-Hop,test,108495,18879,16872,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,Sun Sunych ft. DanBrown,Toys (ft. DanBrown),81f845fa
+fma_small/111/111994.mp3,Instrumental,test,111994,19213,17291,Attribution-NonCommercial-ShareAlike,Serakhe0n,Aego,c2736b04
+fma_small/043/043768.mp3,International,test,043768,411,8584,Attribution-Noncommercial-No Derivative Works 3.0 United States,Ansambl Mastika,Franklin'in Karsilamasi,c2cb843b
+fma_small/025/025055.mp3,Pop,test,025055,6440,5485,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,Ghosts and Strings,Judgement Day,58b891c7
+fma_small/117/117884.mp3,Rock,test,117884,19909,18093,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0,Connections,Green Skull,3d202247
+fma_small/027/027406.mp3,Electronic,train,027406,6926,5930,Attribution-Noncommercial-No Derivative Works 3.0 United States,Ryo Miyashita,Cafe de Brasil,0524e534
+fma_small/119/119545.mp3,Experimental,train,119545,1813,18256,Attribution-NonCommercial,Full Load of King,Jungle Conflict,da6e1bc6
+fma_small/144/144544.mp3,Folk,train,144544,17780,21592,Attribution-Noncommercial-Share Alike 3.0 United States,Wildlight,Holy Dust (Acoustic),8780009a
+fma_small/128/128443.mp3,Hip-Hop,train,128443,21147,19381,Attribution-NonCommercial,Mitchmatic,a night lost,1ab052de
+fma_small/146/146018.mp3,Instrumental,train,146018,23246,21824,Attribution,Ars Sonor & Malga Kubiak,Världens Ände,d0ed9641
+fma_small/006/006396.mp3,International,train,006396,1832,1980,Attribution-Noncommercial-Share Alike 3.0 United States,Sheqer,Sarki,0611954d
+fma_small/122/122504.mp3,Pop,train,122504,20504,18541,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0,Frank Wilke/Andrè Darius,"""Lost umbrella""",d329cc20
+fma_small/130/130682.mp3,Rock,train,130682,19741,19679,Attribution,The Zombie Dandies,Halloween Again,6624e69a
+fma_small/067/067638.mp3,Electronic,validation,067638,14045,12116,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,Southman,Wake Up,10b9e345
+fma_small/129/129622.mp3,Experimental,validation,129622,21361,19531,Attribution-Noncommercial-Share Alike 3.0 United States,Molestia Auricularum,no title,450e11f2
+fma_small/122/122358.mp3,Folk,validation,122358,20475,18525,Attribution,David Mumford,Night Without Sleep,591b5121
+fma_small/011/011803.mp3,Hip-Hop,validation,011803,3203,2899,Attribution-Noncommercial-Share Alike 3.0 United States,Talib Kweli,D'Evils 2008,b29acf17
+fma_small/121/121665.mp3,Instrumental,validation,121665,11939,18457,Attribution-NonCommercial-ShareAlike,happiness in aeroplanes,Wayward Docks,6d53ce7d
+fma_small/025/025668.mp3,International,validation,025668,5303,5571,Attribution-Noncommercial-Share Alike 2.0 France,Volfoniq,Love not money (feat. Solo Banton & Sam),9f124707
+fma_small/061/061734.mp3,Pop,validation,061734,13153,11227,Attribution-Noncommercial-No Derivative Works 3.0 United States,Soft Serve,Let's Go Dutch,82b38e97
+fma_small/096/096759.mp3,Rock,validation,096759,17704,15705,Attribution-Noncommercial-No Derivative Works 3.0 United States,Protomartyr,Maidenhead,c7f70c0c
+fma_small/020/020667.mp3,Electronic,test,020667,5467,4634,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,Vim,surprisingly upbeat about it,49a15030
+fma_small/084/084152.mp3,Experimental,test,084152,1464,7302,Attribution-NonCommercial-ShareAlike 3.0 International,Sikhara,Haka,a7e15145
+fma_small/041/041310.mp3,Folk,test,041310,9744,8170,Attribution-Noncommercial-Share Alike 3.0 United States,Funny Cry Happy,Mercury Spring,f2e998c4
+fma_small/116/116388.mp3,Hip-Hop,test,116388,8693,17918,Attribution-Noncommercial-Share Alike 3.0 United States,Asthmatic Astronaut,Electronica 3,c5b760f5
+fma_small/103/103523.mp3,Instrumental,test,103523,18286,16291,Attribution-NonCommercial 3.0 International,Novi Split,Hollow Notes,173a79c8
+fma_small/041/041019.mp3,International,test,041019,9628,8122,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,Bankil,Manifesto,aca6e0cd
+fma_small/150/150017.mp3,Pop,test,150017,23748,22374,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0,Urs Graf Consort,E.N.A.,820f37d7
+fma_small/137/137605.mp3,Rock,test,137605,21084,20668,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0,Sunshine and the Rain,Nobody Has To Know,f67d16fa
+fma_small/028/028548.mp3,Electronic,train,028548,7171,6141,Attribution-Noncommercial-Share Alike 3.0 United States,General Fuzz,summer,957e3647
+fma_small/012/012737.mp3,Experimental,train,012737,3426,3058,Attribution-Noncommercial-No Derivative Works 3.0 United States,Prince Rama,Om Mane Padme Hum,c2401ea6
+fma_small/135/135010.mp3,Folk,train,135010,21937,20274,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0,Jackson Grimm,Jenny,2fb5c2ea
+fma_small/024/024423.mp3,Hip-Hop,train,024423,6274,5347,Creative Commons Attribution,Black Ant,D8M3,6a9f522b
+fma_small/037/037911.mp3,Instrumental,train,037911,8873,7503,Public Domain,Limonadiac,A Dyslexic Dumb Dead Voice,f4c52cd8
+fma_small/044/044946.mp3,International,train,044946,10384,8727,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,arsonist,Hot salsa trip,abd52a55
+fma_small/056/056274.mp3,Pop,train,056274,12255,10415,Attribution-Noncommercial-Share Alike 3.0 United States,Orca Team,No Fun,f43fd255
+fma_small/108/108962.mp3,Rock,train,108962,18947,16914,Attribution-NonCommercial-ShareAlike,The Mystery Artist,Unquietness,dea06765
+fma_small/107/107910.mp3,Electronic,validation,107910,17927,16791,Attribution-NonCommercial-ShareAlike,Project 5am,Yves,093bab34
+fma_small/098/098229.mp3,Experimental,validation,098229,3007,15896,Attribution-Noncommercial-Share Alike 3.0 Netherlands,Marco Raaphorst,Free Bassel,1fecfe12
+fma_small/001/001893.mp3,Folk,validation,001893,306,477,Attribution-NonCommercial-ShareAlike 3.0 International,Tommy Jay,Memories,0e80f661
+fma_small/113/113033.mp3,Hip-Hop,validation,113033,19302,17421,Attribution-Noncommercial-Share Alike 3.0 United States,One S.P.,I Told Jesus ft. Sharam Shahbazi (Asthmatic Astronaut Remix),14e351cc
+fma_small/111/111871.mp3,Instrumental,validation,111871,17984,17272,Attribution-NonCommercial-ShareAlike,MOAN,Taint,cc8fe399
+fma_small/064/064408.mp3,International,validation,064408,13454,11607,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,Shan-A-Shan,Melodica Time (Cut Session),a0f7cfdc
+fma_small/012/012188.mp3,Pop,validation,012188,3229,2965,Attribution-Noncommercial-Share Alike 2.0 France,Christine,Gimme,43c55b7c
+fma_small/124/124201.mp3,Rock,validation,124201,17369,18780,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0,Octagrape,Sungazers,80a138c5
+fma_small/132/132775.mp3,Electronic,train,132775,16727,19982,Attribution-Noncommercial-Share Alike 3.0 United States,Poor Alexei,Bipolarity,0e905e66
+fma_small/122/122166.mp3,Experimental,train,122166,20441,18507,Attribution-NonCommercial-ShareAlike 3.0 International,"Binary Slim, John Juan & Jaan Patterson",Grimaces and other useful techniques,f0b628c4
+fma_small/064/064553.mp3,Folk,train,064553,13479,11632,Attribution-Noncommercial-Share Alike 2.0 UK: England ,Wellington Boot,Bread,e9b26a93
+fma_small/072/072234.mp3,Hip-Hop,train,072234,14691,12827,Attribution-Noncommercial-Share Alike 3.0 United States,Magic Daddy,Death Machine,e243efb0
+fma_small/132/132568.mp3,Instrumental,train,132568,13325,19963,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,Tyrannosaurus Dracula,Upsidedown Stars - Tyrannosaurs Dracula,6c42405a
+fma_small/141/141594.mp3,International,train,141594,5798,21284,Attribution,Mikuś,Dub For Gaza,afba880a
+fma_small/138/138063.mp3,Pop,train,138063,22223,20749,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0,Black Flamingo,Winter Sun,ebf6c225
+fma_small/066/066405.mp3,Rock,train,066405,13835,11923,Attribution-Noncommercial-No Derivative Works 3.0 United States,Free Keys,Hon,5303f7c5
+fma_small/099/099135.mp3,Electronic,train,099135,18011,16027,Attribution-Noncommercial-No Derivative Works 3.0 United States,Pontic Firebird,Yietierre,116074c0
+fma_small/044/044801.mp3,Experimental,train,044801,8657,8698,Attribution-NonCommercial-ShareAlike 3.0 International,Rushjet1,The Voyage,f31bd001
+fma_small/097/097216.mp3,Folk,train,097216,17819,15764,Attribution-Noncommercial-No Derivative Works 3.0 United States,The Wingdale Community Singers,When I Heard The Learn'd Astronomer,ca236e1c
+fma_small/013/013804.mp3,Hip-Hop,train,013804,2430,2517,Attribution-Noncommercial-Share Alike 3.0 United States,The Professional Savage,Life's A Beach,10ef5f23
+fma_small/121/121473.mp3,Instrumental,train,121473,20315,18437,Attribution-NonCommercial 3.0 International,Satellite Ensemble,Duets,42f92c80
+fma_small/016/016334.mp3,International,train,016334,4488,3747,Attribution-Noncommercial-Share Alike 3.0 United States,Peliatan Gamelan,Kapi Radja (Ape King),67b1c2ef
+fma_small/148/148288.mp3,Pop,train,148288,23544,22108,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0,LoveyDove,Deep Down Inc.,57c864f2
+fma_small/072/072064.mp3,Rock,train,072064,14668,12767,Attribution-Noncommercial-Share Alike 3.0 United States,Quest Poetics,Babylon...She's Falling,c756231d
+fma_small/116/116239.mp3,Electronic,train,116239,7504,17894,Attribution-Noncommercial-Share Alike 3.0 United States,Radarsat-1,Bonus Life,429e763e
+fma_small/075/075975.mp3,Experimental,train,075975,13913,13304,Attribution-ShareAlike 3.0 International,Miquel Parera Jaques,NXPiano001_Score01a-2012-12-23_03_36_01,394d1f59
+fma_small/146/146639.mp3,Folk,train,146639,22010,21879,Attribution-NonCommercial-ShareAlike,Aglow Hollow,Bob Burns Down,cb20400a
+fma_small/069/069561.mp3,Hip-Hop,train,069561,14261,12353,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,The NSJ Crew,S.W.A.G.,70ec379d
+fma_small/057/057418.mp3,Instrumental,train,057418,12457,10576,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,Kusum Normoyle,Octopus,c9800fef
+fma_small/060/060777.mp3,International,train,060777,13023,11118,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,Echidna,T'ithela k'c s'agapousa,5f40f868
+fma_small/058/058162.mp3,Pop,train,058162,11383,10743,Attribution-NonCommercial-ShareAlike 3.0 International,Elvis Herod,CHICKEN OVERTURE,dbd4110e
+fma_small/057/057500.mp3,Rock,train,057500,12476,10584,Attribution-Noncommercial-No Derivative Works 3.0 United States,Barreracudas,Girl,35f3cf04
+fma_small/052/052642.mp3,Electronic,train,052642,11679,9869,Attribution 3.0 United States,Jason Shaw,Namaste,ecebfaf7
+fma_small/057/057360.mp3,Experimental,train,057360,12436,10571,Attribution-Noncommercial-Share Alike 3.0 United States,Dead Gum,D-Stress,e400d6e7
+fma_small/107/107593.mp3,Folk,train,107593,18755,16750,Attribution,Kelly Latimore,Snacilep Gnivid ot Edo,49732aaa
+fma_small/013/013735.mp3,Hip-Hop,train,013735,3770,3229,Attribution-Noncommercial-No Derivative Works 3.0 United States,Tha Connection,Funktions Prod. Sci Fi,27be7513
+fma_small/109/109189.mp3,Instrumental,train,109189,18000,16946,Attribution-NonCommercial-ShareAlike,Aires,Solvet Cosmos In Favilla,81b2e5c6
+fma_small/004/004849.mp3,International,train,004849,911,985,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,Mamak Khadem,Avareh,a1f7753a
+fma_small/127/127912.mp3,Pop,train,127912,21124,19324,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0,Gingerlys,Incandescent,a20b7ba4
+fma_small/000/000777.mp3,Rock,train,000777,149,216,Attribution-NonCommercial-ShareAlike 3.0 International,Glove Compartment,Relaxing,6bad504d
+fma_small/085/085317.mp3,Electronic,train,085317,5789,14390,Attribution-Noncommercial-Share Alike 2.0 UK: England ,Titus 12,Human Face,5743601d
+fma_small/127/127155.mp3,Experimental,train,127155,13517,19217,Attribution-NonCommercial,SHOMOMOSE,So Sad,32abb1af
+fma_small/129/129683.mp3,Folk,train,129683,9765,19543,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0,Derek Clegg,Child of the 70's,79631933
+fma_small/060/060510.mp3,Hip-Hop,train,060510,3350,11072,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,MUTE,Sad Song,77b23860
+fma_small/122/122675.mp3,Instrumental,train,122675,19189,18552,Attribution,P C III,Snoday,47bcbd05
+fma_small/027/027197.mp3,International,train,027197,6891,5873,Attribution-Noncommercial-Share Alike 3.0 United States,Barcelona Afrobeat International Orchestra,Barcelona Afrobeat 03,4663123a
+fma_small/067/067368.mp3,Pop,train,067368,14000,12066,Attribution-NonCommercial,Super Creep,Get Off My Beach,6b1cd53f
+fma_small/018/018197.mp3,Rock,train,018197,4925,4118,Attribution-Noncommercial-Share Alike 3.0 New Zealand,Kraus,Happening for Lulu,56f3ea4f
+fma_small/098/098838.mp3,Electronic,train,098838,8741,14523,Attribution-Noncommercial-Share Alike 3.0 United States,Moonove,intense,ff6fc06e
+fma_small/145/145059.mp3,Experimental,train,145059,23114,21649,Attribution-NonCommercial,Noggin,"In Ages Past, The Myths And Legends Happened A Long Time Ago",4a735c05
+fma_small/105/105713.mp3,Folk,train,105713,18573,16511,Attribution-Noncommercial-No Derivative Works 3.0 United States,Sam Moss,Ocean,39d2c9b9
+fma_small/070/070208.mp3,Hip-Hop,train,070208,14363,12474,Attribution-Noncommercial-No Derivative Works 3.0 United States,Spray Lodge,Bittersweet Insomnia,0b281a0a
+fma_small/057/057371.mp3,Instrumental,train,057371,2240,10572,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,Justice Yeldham,March Of The Bodypumpers,c4440ea1
+fma_small/025/025601.mp3,International,train,025601,6546,5563,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,Ras Amerlock meets Professor Balthazar,7th Sea Dub in Twilight,defedfac
+fma_small/021/021401.mp3,Pop,train,021401,5637,4764,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,Ghost Bees,Did The Red Sea Part?,9753edfc
+fma_small/040/040903.mp3,Rock,train,040903,7501,8098,Attribution-Noncommercial-Share Alike 3.0 United States,James Beaudreau,The Devil is a Sad Spirit,e7355ef1
+fma_small/138/138579.mp3,Electronic,train,138579,21157,20821,Attribution-Noncommercial-Share Alike 3.0 United States,harmonic defiance,everything is love,0b197fc2
+fma_small/060/060317.mp3,Experimental,train,060317,5147,11057,Attribution-Noncommercial-Share Alike 3.0 United States,Chuck Bettis,Horror Storm,c031d6d1
+fma_small/085/085966.mp3,Folk,train,085966,16526,14490,Attribution-Noncommercial-No Derivative Works 3.0 United States,Star Rover,Rag Doll,70dad2c9
+fma_small/129/129806.mp3,Hip-Hop,train,129806,21393,19557,Attribution-Noncommercial-Share Alike 3.0 United States,Captive Portal,Oak Bloke,55c16b3d
+fma_small/149/149712.mp3,Instrumental,train,149712,22430,22333,Attribution,Fatal Injection,Step One,9f12a632
+fma_small/039/039357.mp3,International,train,039357,9378,7837,Attribution-NonCommercial-ShareAlike 3.0 International,Dubosmium,Waragine a ragine,9132b406
+fma_small/017/017906.mp3,Pop,train,017906,1922,4103,Attribution-Noncommercial-Share Alike 3.0 United States,Learning Music,I Want You Pretty,492bed62
+fma_small/119/119257.mp3,Rock,train,119257,1810,18241,Attribution-NonCommercial,The Wades,like love,bd18e237
+fma_small/123/123935.mp3,Electronic,train,123935,20706,18748,Attribution-NonCommercial-ShareAlike,Taseh,Lorry,1b71abb1
+fma_small/112/112215.mp3,Experimental,train,112215,19260,17326,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0,long_loaf,Tried Tree,252860b8
+fma_small/107/107851.mp3,Folk,train,107851,16027,16785,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0,Pete Lund,Gypsy Cab,a85a7bdb
+fma_small/146/146147.mp3,Hip-Hop,train,146147,23260,21837,Attribution-NonCommercial-ShareAlike,A-Grav Lab,Creation,0ac6729c
+fma_small/128/128619.mp3,Instrumental,train,128619,19056,19395,Attribution-NonCommercial-ShareAlike,Cloudjumper,Chillout Arena,a77f5d23
+fma_small/091/091960.mp3,International,train,091960,17136,15212,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,Čaj na Ex,Feel No Stress,000c0d19
+fma_small/077/077572.mp3,Pop,train,077572,14296,13463,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,Evils That Never Came,The Watchers,a2965111
+fma_small/020/020050.mp3,Rock,train,020050,5329,4550,Attribution-Noncommercial-Share Alike 3.0 United States,Family Of The Year,Let's Go Down,a1201576
+fma_small/116/116068.mp3,Electronic,train,116068,19742,17859,Attribution-NonCommercial,Jens East,Daybreak (feat. Henk),585a011b
+fma_small/121/121366.mp3,Experimental,train,121366,20308,18420,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,YANSR & CCC,Pedro Sousa - Pós Africanismos Redundantes,1652ff81
+fma_small/012/012350.mp3,Folk,train,012350,3308,2984,Attribution-NonCommercial 2.5,Koonda Holaa,It's Not Like You (Always),aaf4e2bc
+fma_small/022/022088.mp3,Hip-Hop,train,022088,5844,4879,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,Tab & Anitek,House of the Rising Son,0a9be531
+fma_small/113/113969.mp3,Instrumental,train,113969,19452,17553,Attribution-NonCommercial,Fearless Super Pictures,An Unearthly Child,1d2719cc
+fma_small/062/062589.mp3,International,train,062589,9165,7688,Attribution-Noncommercial-Share Alike 3.0 United States,Tchakare Kanyembe,Tchakare Kanyembe track 01,7f4b2902
+fma_small/048/048453.mp3,Pop,train,048453,11093,9279,Attribution-Noncommercial-Share Alike 3.0 United States,AlexandredavidgabrielMehdi,deux dents dehors,f0cf4737
+fma_small/086/086419.mp3,Rock,train,086419,16597,14552,Attribution-Noncommercial-Share Alike 3.0 United States,One Master,Infernal Silence,f51de44e
+fma_small/069/069732.mp3,Electronic,train,069732,14297,12382,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,Godblesscomputers,Natürlich,2c7dc8f3
+fma_small/066/066469.mp3,Experimental,train,066469,8367,11940,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,Qkcofse,Walking,053dad1f
+fma_small/031/031807.mp3,Folk,train,031807,4126,6636,Attribution-Noncommercial-Share Alike 3.0 United States,Fuck Buddies,Oh Eve,0dc3847f
+fma_small/110/110260.mp3,Hip-Hop,train,110260,19057,17087,Attribution,Kellee Maize & J. Glaze Productions,I Insist (J. Glaze Remix),dffed77d
+fma_small/133/133973.mp3,Instrumental,train,133973,21858,20124,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0,Marcos H. Bolanos,The Dream,989a17e0
+fma_small/093/093981.mp3,International,train,093981,17351,15440,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,Abraka Dub,Košielka,15fdc77e
+fma_small/021/021232.mp3,Pop,train,021232,5574,1886,Attribution-NonCommercial 3.0 International,Alex077,Where I Stand,54d6e988
+fma_small/111/111747.mp3,Rock,train,111747,19174,17258,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0,Soko,We Might Be Dead By Tomorrow,9271b3b2
+fma_small/115/115724.mp3,Electronic,train,115724,19679,17793,Attribution-Noncommercial-Share Alike 3.0 United States,Martin R.,Theme for a Raven,b2f2d6cf
+fma_small/149/149422.mp3,Experimental,train,149422,15261,22278,Attribution-Noncommercial-Share Alike 3.0 United States,Kathleen Martin,Morning Movement,b8e7c363
+fma_small/117/117632.mp3,Folk,train,117632,19890,18057,Attribution-NonCommercial-ShareAlike,Julia K. Mars,Array Of Concerns,abeb4a09
+fma_small/015/015210.mp3,Hip-Hop,train,015210,4220,3518,Attribution-Noncommercial-No Derivative Works 3.0 United States,Seven,Go Away,1b065a59
+fma_small/139/139777.mp3,Instrumental,train,139777,22389,21032,Attribution-NonCommercial,Evgeny Teilor,Runaway,e3322377
+fma_small/042/042020.mp3,International,train,042020,9935,8263,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,Jah Henchman,Real Avatar  (Jamaica),32d6e88f
+fma_small/071/071709.mp3,Pop,train,071709,14584,12697,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,The Ginger Ale Revolution,The Popsicle Palace,6407a1ca
+fma_small/109/109468.mp3,Rock,train,109468,19011,16984,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0,The Pink Tiles,Ordinary Girl,77d8c09d
+fma_small/021/021085.mp3,Electronic,train,021085,5520,4695,Attribution-Noncommercial-No Derivative Works 3.0 United States,The J. Arthur Keenes Band,Dispatch,226d4adf
+fma_small/131/131567.mp3,Experimental,train,131567,21316,19819,Attribution-NonCommercial-ShareAlike,Massaccesi,Their Business Model Doesn't Coincide With Reality,2069e8ce
+fma_small/067/067016.mp3,Folk,train,067016,559,12017,Attribution-Noncommercial-No Derivative Works 3.0 United States,Michael Chapman,Kodak Ghosts,287c05c6
+fma_small/110/110265.mp3,Hip-Hop,train,110265,19058,17087,Attribution,Kellee Maize & J. Glaze & Udachi,Fact Is Remix (J. Glaze and Udachi Remix),c0e77e31
+fma_small/124/124874.mp3,Instrumental,train,124874,20760,18867,Attribution-NonCommercial,Sergey Cheremisinov,Mindship,744d1293
+fma_small/006/006803.mp3,International,train,006803,1729,1852,Attribution-Noncommercial-Share Alike 3.0 United States,Watcha Clan,Balkan Qoulou,d356c1be
+fma_small/113/113808.mp3,Pop,train,113808,19438,17542,Attribution-ShareAlike,The Copycuts,Next Life,9d0f7ec2
+fma_small/031/031999.mp3,Rock,train,031999,7920,6690,Attribution-NonCommercial 3.0 International,Twin Sister,I Want a House,1f2c7e26
+fma_small/054/054719.mp3,Electronic,train,054719,3217,10235,Attribution-NonCommercial-ShareAlike 3.0 International,Professor Kliq,Bollywood Blades,41854a5c
+fma_small/096/096898.mp3,Experimental,train,096898,17735,15721,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,Sudden Infant,Minfuck,5369d51a
+fma_small/144/144469.mp3,Folk,train,144469,3475,21583,Attribution-NonCommercial 3.0 International,Nick Jaina,I Have That Same Tattoo (Instrumental),282f5064
+fma_small/128/128666.mp3,Hip-Hop,train,128666,17125,19401,Attribution-NonCommercial-ShareAlike,Ant The Symbol,We Can Talk About That (Instrumental),0c414c72
+fma_small/142/142381.mp3,Instrumental,train,142381,22667,21377,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0,Edgardo Moreno,House club track,862f6276
+fma_small/011/011674.mp3,International,train,011674,2795,2870,Attribution-Noncommercial-Share Alike 3.0 United States,Cordero,(chat w/ Rob Weisberg),92752d93
+fma_small/047/047665.mp3,Pop,train,047665,10903,9135,Attribution-NonCommercial-ShareAlike 3.0 International,Berlinist,My Darling Grace,1e87c9ab
+fma_small/145/145241.mp3,Rock,train,145241,23151,21684,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0,Vukovar,THE THREE SHADES,fb07c541
+fma_small/067/067553.mp3,Electronic,train,067553,12253,12099,Attribution-NonCommercial-ShareAlike 3.0 International,Jiony,Not Found (Invisible),a117334f
+fma_small/132/132424.mp3,Experimental,train,132424,21688,19950,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0,Cock ESP w/Art Pratten,Acoustic And Intimidating,b6845121
+fma_small/092/092535.mp3,Folk,train,092535,17233,15310,Attribution-Noncommercial-No Derivative Works 3.0 United States,Andrea Tomasi,Falcon Song,64e36511
+fma_small/014/014386.mp3,Hip-Hop,train,014386,3981,3351,Attribution-Noncommercial-No Derivative Works 3.0 United States,9th Scientist,I Love Hip Hop,2482152b
+fma_small/098/098237.mp3,Instrumental,train,098237,17910,15898,Attribution-NonCommercial-ShareAlike 3.0 International,Fear Konstruktor,Object,10cb2384
+fma_small/027/027953.mp3,International,train,027953,4373,6045,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,Cooper-Moore,(a) The Forest,8aeed6e3
+fma_small/013/013378.mp3,Pop,train,013378,3652,3177,Attribution-Noncommercial 3.0 Austria,Peter Fox Simon,I Wish,4b1b7161
+fma_small/099/099419.mp3,Rock,train,099419,18027,16058,Attribution-Noncommercial-No Derivative Works 3.0 United States,Pampers,Sack Attack,24e053db
+fma_small/117/117287.mp3,Electronic,train,117287,13035,18019,Attribution-NoDerivatives 4.0 International,My brother Daniel,Wee Bird,1e449c3c
+fma_small/039/039875.mp3,Experimental,train,039875,9264,7923,Attribution-NonCommercial-ShareAlike 3.0 International,Uton,Sexual Energy,ad168582
+fma_small/118/118738.mp3,Folk,train,118738,20084,18186,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0,The Golden Dawn,Enjoy the nature,6879343d
+fma_small/058/058212.mp3,Hip-Hop,train,058212,12611,10750,Attribution-ShareAlike 3.0 International,Elemint,Guerrilla Music,9aa1b2e6
+fma_small/075/075431.mp3,Instrumental,train,075431,3951,13251,Attribution-NonCommercial-ShareAlike 3.0 International,Cherly KaCherly,Passive aggressive ia all we have. You Can't shout underwater,f68411d0
+fma_small/054/054438.mp3,International,train,054438,11987,10186,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,303db,The Beast Inside,a884d351
+fma_small/044/044806.mp3,Pop,train,044806,10296,8699,Attribution-NonCommercial,Monk Turner + Fascinoma,Letter to the Los Angeleans [BEFORE],7f01a11e
+fma_small/050/050543.mp3,Rock,train,050543,11384,9561,Attribution-Noncommercial-No Derivative Works 3.0 United States,The Men,Lazarus,ff13f936
+fma_small/133/133028.mp3,Electronic,train,133028,20146,20018,Creative Commons Attribution-NonCommercial-NoDerivatives 4.0,SPCZ,Eternal Glide,ff967744
+fma_small/000/000615.mp3,Experimental,train,000615,126,175,Attribution-NonCommercial-ShareAlike 3.0 International,EKG,"Immaterial, side A",dce2e5d6
+fma_small/065/065685.mp3,Folk,train,065685,13690,11827,Attribution-NonCommercial-ShareAlike 3.0 International,Dick Whyte and his Golden Guitar,Maybelle (feat. Robyn Kenealy),123505cc
+fma_small/083/083715.mp3,Hip-Hop,train,083715,7473,14145,Attribution-ShareAlike,Cullah,J6 On The Rising Sun,6401734d
+fma_small/150/150265.mp3,Instrumental,train,150265,23212,22402,Attribution,Hyson,All Will See,a7482572
+fma_small/080/080772.mp3,International,train,080772,15839,13827,Attribution-NonCommercial-NoDerivatives (aka Music Sharing) 3.0 International,Zlatni Makedoncinja,Svadba Golema,4bc4f6e1
+fma_small/141/141181.mp3,Pop,train,141181,22538,21227,Attribution-NonCommercial-ShareAlike,Simple CUT,Stay (Teknique Remix) (Featuring Jeff Barringer),01002237
+fma_small/091/091092.mp3,Rock,train,091092,17023,15088,Attribution-Noncommercial-No Derivative Works 3.0 United States,Cuntz,Meth,0ee7345f
