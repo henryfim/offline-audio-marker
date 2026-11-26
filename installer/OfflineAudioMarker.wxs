@@ -1,0 +1,28 @@
+<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs">
+  <Package Name="Offline Audio Marker" Manufacturer="Offline Audio Marker"
+           Version="$(var.AppVersion)" Scope="perUser"
+           UpgradeCode="4DA7525C-8846-44F8-9B24-055DA1A2EAC5">
+    <MajorUpgrade DowngradeErrorMessage="A newer version of Offline Audio Marker is already installed." />
+    <MediaTemplate EmbedCab="yes" CompressionLevel="high" />
+
+    <StandardDirectory Id="LocalAppDataFolder">
+      <Directory Id="INSTALLFOLDER" Name="OfflineAudioMarker">
+        <Component Id="NativeStartMenuShortcut">
+          <Shortcut Id="StartMenuShortcut" Directory="ProgramMenuFolder" Name="Offline Audio Marker"
+                    Target="[INSTALLFOLDER]OfflineAudioMarker.exe" Arguments="--installed"
+                    WorkingDirectory="INSTALLFOLDER" />
+          <RegistryValue Root="HKCU" Key="Software\OfflineAudioMarker" Name="Installed"
+                         Type="integer" Value="1" KeyPath="yes" />
+        </Component>
+      </Directory>
+    </StandardDirectory>
+    <StandardDirectory Id="ProgramMenuFolder" />
+    <ComponentGroup Id="CapturedFiles" Directory="INSTALLFOLDER">
+      <Files Include="$(var.AppSource)\**" />
+    </ComponentGroup>
+    <Feature Id="Application" Title="Offline Audio Marker" Level="1">
+      <ComponentRef Id="NativeStartMenuShortcut" />
+      <ComponentGroupRef Id="CapturedFiles" />
+    </Feature>
+  </Package>
+</Wix>
